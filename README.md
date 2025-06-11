@@ -1,5 +1,5 @@
 # MLLMs for multimodal assessment 
-Multimodal AI models and multimodal speaking assessment 
+Multimodal AI (MLLMs) for multimodal assessment
 
 ## Research Papers
 
@@ -12,3 +12,6 @@ Speaking Skills](https://doi.org/10.1177/21582440231193818)
 ## Tools 
 - Zou et al, 2023: [An Investigation Into Artificial Intelligence Speech Evaluation Programs With Automatic Feedback for Developing EFL Learners’ 
 Speaking Skills](https://doi.org/10.1177/21582440231193818)
+
+## SL-eAA 2025 Keynote slides 
+- Sha Liu, June 2025: [Reimagining (Speaking) Assessment: The Multimodal Revolution Powered by Generative AI](https://drive.google.com/file/d/1Sfs1y0qw9jChNVSEUIFkwok1ten_l4eR/view?usp=drive_link)
